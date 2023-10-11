@@ -1,7 +1,7 @@
 import copy
 import time
 import psycopg2
-import psycopg2.extras
+#import psycopg2.extras
 import singer
 from singer import utils
 import singer.metrics as metrics
