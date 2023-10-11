@@ -13,7 +13,7 @@ from itertools import dropwhile
 import copy
 import ssl
 import psycopg2
-#import psycopg2.extras
+import psycopg2.extras
 import singer
 import singer.schema
 from singer import utils, metadata, get_bookmark

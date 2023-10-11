@@ -2,7 +2,7 @@ import datetime
 import decimal
 import math
 import psycopg2
-#import psycopg2.extras
+import psycopg2.extras
 import singer
 LOGGER = singer.get_logger()
 
